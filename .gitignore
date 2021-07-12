@@ -1,0 +1,14 @@
+.settings/org.eclipse.core.resources.prefs
+.settings/org.eclipse.jdt.apt.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
+.project
+.vscode/settings.json
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+target/classes/com/integrationtesting/RequestHandler.class
+target/classes/com/integrationtesting/WebService.class
+target/classes/com/integrationtesting/old/RequestHandlerOld.class
+target/test-classes/com/integrationtesting/RequestHandlerTest.class
+target/test-classes/com/integrationtesting/old/RequestHandlerTestOld.class
+.classpath
